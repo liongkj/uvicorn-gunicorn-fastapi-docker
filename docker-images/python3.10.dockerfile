@@ -1,4 +1,4 @@
-FROM avaasiaadmin/uvicorn-gunicorn-docker:python3.10
+FROM avaasiaadmin/uvicorn-gunicorn-docker:latest
 
 LABEL maintainer="Sebastian Ramirez <tiangolo@gmail.com>"
 
